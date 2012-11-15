@@ -1,0 +1,16 @@
+---
+author: 'Nurdan Tuğçe Yeşilyurt'
+description: 'Folyolar'
+email: 'nty@bil.omu.edu.tr'
+url: 'ntgcyslyrt.github.com/fo'
+domain: 'ntgcyslyrt.github.com'
+intro: ''
+googleanalytics: ''
+googleplus: ''
+brand: default
+landslide: /usr/bin/landslide
+css: _/default.css
+js: _/default.js
+theme: light
+indextemplate: _/index.erb
+foliotemplate: _/default.erb
